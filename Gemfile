@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.1.6'
 
 gem 'active_model_serializers', '0.9.0'
+gem 'rack-cors'
 
 group :development do
   gem 'sqlite3'
