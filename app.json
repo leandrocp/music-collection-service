@@ -1,0 +1,5 @@
+{
+  "name": "Music Collection Service",
+  "description": "Service to host artists, albums and songs.",
+  "repository": "https://github.com/leandrocp/music-collection-service"
+}
